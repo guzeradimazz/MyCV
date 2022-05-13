@@ -1,2 +1,3 @@
 # MyCV
-<img width="396" alt="Снимок экрана 2022-03-17 в 10 34 03" src="https://user-images.githubusercontent.com/71637814/158759320-0c8ac08e-6455-4269-8a48-02ac9d594d48.png">
+
+<img width="420" alt="Снимок экрана 2022-05-13 в 14 04 10" src="https://user-images.githubusercontent.com/71637814/168270542-a7bfcdee-47ea-4b61-919d-793451539a29.png">
