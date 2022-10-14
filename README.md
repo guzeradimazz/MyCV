@@ -1,4 +1,4 @@
 # MyCV
 
 
-<img width="349" alt="Снимок экрана 2022-10-13 в 22 04 58" src="https://user-images.githubusercontent.com/71637814/195689643-c641e8f4-a3e9-4386-8753-f6d378637306.png">
+<img width="462" alt="Снимок экрана 2022-10-15 в 00 33 27" src="https://user-images.githubusercontent.com/71637814/195947413-e596d31f-20f3-450d-b4eb-6807ce5640b5.png">
